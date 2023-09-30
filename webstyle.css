@@ -1,0 +1,66 @@
+body,
+
+h1,
+
+h2,
+
+p, ul,
+
+li{
+
+
+
+ margin: 0; padding: 0;}
+
+/* Basic styling for the header and navigation */
+
+header {
+
+background-color: #176e06; color: #fcfbfb; padding: 20px 0; text-align: center;
+
+}
+
+nav ul {
+
+list-style-type: none;
+
+}
+
+nav ul li {
+
+display: inline; margin-right: 20px;
+
+}
+
+nav ul li a {
+
+color: #fdfafa; text-decoration: none;
+
+}
+
+/* Styling for the sections */
+
+section {
+
+padding: 40px;
+}
+.project {
+
+  margin-bottom: 20px;
+  
+  padding: 20px;
+  
+  border: 1px solid #000705;
+  
+  background-color: #c7a902;
+}
+  
+  .project img { max-width: 50%; height: auto;}
+  
+  /* Styling for the footer */
+  
+  footer {
+  
+  background-color: #096a21;
+  
+  color: #fff; text-align: center; padding: 10px; }
